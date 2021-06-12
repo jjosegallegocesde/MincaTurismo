@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="opcion1" translatable="false">Profile</string>
+    <string name="opcion2" translatable="false">English</string>
+    <string name="opcion3" translatable="false">Spanish</string>
+    <string name="perfilnombre" translatable="false">Luis Carlos Ramos</string>
+    <string name="perfil" translatable="false">Software Development Assistant very soon and with all the desire to continue learning a lot and in the future be a great programmer to have the pleasure of being and producing good projects for my beloved Colombia</string>
+    <string name="app_name">MincaTours</string>
+    <string name="todo">Everything</string>
+    <string name="texto1">Luxurious hotel made one hundred percent of guaudas with a spectacular view full of the best natural landscapes that you can find in Minca Magdalena \"</string>
+    <string name="texto2" translatable="false">"It is undoubtedly one of the best hostels that we can find in the Minca region with excellent rooms and also with adaptations for hammock lovers, do not miss it "</string>
+    <string name="registar" translatable="false">to register</string>
+    <string name="listar">to list</string>
+</resources>

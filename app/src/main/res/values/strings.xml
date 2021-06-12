@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MincaTurismo</string>
+    <string name="opcion1">Perfil</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+    <string name="perfilnombre">Luis Carlos Ramos</string>
+    <string name="perfil">Auxiiliar De Desarrollo de software muy pronto y con todas las ganas de seguir aprendiendo bastante y en un futuro ser un gran programador para tener el placer de aser y producir buenos proyectos para mi amada colombia</string>
+    <string name="todo">TODO</string>
+    <string name="texto1">Lujoso hotel hecho cien por ciento de guaudas con una vista espectacular llena de los mejores paisajes naturales que puedes encontrar en Minca Magdalena\"</string>
+    <string name="texto2">Es sin duda uno de los mejores hostales que podemos encontrar en la region de Minca con exelentes habitaciones y ademas con adecuaciones para los amantes de las hamacas no te lo pierdas"</string>
+    <string name="registar">Registrar</string>
+    <string name="listar">Listar</string>
+</resources>

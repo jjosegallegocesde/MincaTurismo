@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780995267534",
+    "project_id": "mincaturismo",
+    "storage_bucket": "mincaturismo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780995267534:android:12bde8178a8a9b0565f99f",
+        "android_client_info": {
+          "package_name": "com.example.mincaturismo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780995267534-grkr28lvahu1od0i6bb6970gce9np785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrjHFHMu5He8iXQHAIF8hQCgFpiqu9r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780995267534-grkr28lvahu1od0i6bb6970gce9np785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
